@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnws-asr", "fnws-asr\fnws-asr.csproj", "{4E2A68B7-D42D-44CE-8D0D-2D7D79E82C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2A68B7-D42D-44CE-8D0D-2D7D79E82C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2A68B7-D42D-44CE-8D0D-2D7D79E82C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2A68B7-D42D-44CE-8D0D-2D7D79E82C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2A68B7-D42D-44CE-8D0D-2D7D79E82C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
